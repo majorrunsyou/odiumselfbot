@@ -1,0 +1,8 @@
+CREDITS
+------
+I've added functions from the following sources to make an all in one selfbot:
+
+- Snaxes Selfbot(Good Options But Contains Token Logger)
+- Alucard Selfbot
+- Scalic Selfbot
+- Strawhat Nuker 
